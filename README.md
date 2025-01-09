@@ -1,3 +1,6 @@
+!!IMPORTANT 
+This project is for educational purposes only and does not target anything illegal in any way.
+
 # YouTube-Video-Downloader-Web-Application
 This project is a web-based application built with Flask and yt-dlp that allows users to download YouTube videos directly from their browser. It provides an intuitive and user-friendly interface where users can paste the URL of the video they wish to download. The application supports downloading videos in various formats (MP4, WebM, etc.) and quality options (video + audio, or best available).
 
